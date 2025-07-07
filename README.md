@@ -90,16 +90,13 @@ The pipeline combines classical NLP cleaning with modern transformer embedding t
 ---
 
 ## 📁 Project Structure
+```
 phishing-detection-albert/
-
 ├── phishing-detection-albert.ipynb
-
 ├── README.md
-
 ├── LICENSE
-
-├── result/
-
+└── result/
+```
 ---
 
 ## 🛡️ License
